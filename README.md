@@ -1,5 +1,5 @@
 # Dynamic-Go
-Dynamically operating data for Go. Aiming at reducing serialization/deserializtion process thus it can be fast as much as possible.
+Dynamically operating data for Go. Aiming at reducing serialization/deserialization process thus it can be fast as much as possible.
 
 ## Introduction
 See [introduction.md](introduction.md).
